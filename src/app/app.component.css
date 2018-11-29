@@ -1,0 +1,46 @@
+.jumbo {
+    color: rgb(57, 57, 99);
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 20px;
+    text-shadow: 0 0 3px rgb(242, 59, 215)
+}
+.dropDown {
+    width: 10vw;
+    height: 3vh;
+    margin-right: 20px;
+}
+.searchBar {
+    width: 10vw;
+    height: 3vh;
+}
+.btn {
+    background-color: rgba(174, 202, 237, 0.879);
+    width: 4vw;
+    height: 3vh;
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
+.card1 {
+    text-align: center;
+    width: 30em;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(8, 70, 92)
+    }
+
+.card2 {
+    text-align: center;
+    width: 30em;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(8, 70, 92)  
+}   
+
+.card3 {
+    text-align: center;
+    width: 30em;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(8, 70, 92)
+}
